@@ -1,0 +1,106 @@
+{
+  "quotes": [
+    {
+      "author": "Albert Einstein...",
+      "quote": "Anyone who has never made a mistake has never tried anything new."
+    }
+  ],
+  "users": [
+    {
+      "name": "John Moore",
+      "email": "JohnnyBoi4life@gmail.com",
+      "occupation": "Doctor",
+      "id": 1,
+      "uri": "file:///Users/DeVontae/Library/Developer/CoreSimulator/Devices/29238F4F-0C22-4406-9D6A-BF4C9F3DAD00/data/Containers/Data/Application/71BD1567-27FC-4863-AD81-37D7323E2A8F/Library/Caches/ExponentExperienceData/%2540codewithtae%252Freact-native-fundamentals/ImagePicker/EFC1C057-A9AF-45D8-9A03-59CF9BB7CA54.png"
+    },
+    {
+      "name": "John Moore",
+      "email": "JohnnyBoi4life@gmail.com",
+      "occupation": "Doctor",
+      "id": 2,
+      "uri": "file:///Users/DeVontae/Library/Developer/CoreSimulator/Devices/29238F4F-0C22-4406-9D6A-BF4C9F3DAD00/data/Containers/Data/Application/71BD1567-27FC-4863-AD81-37D7323E2A8F/Library/Caches/ExponentExperienceData/%2540codewithtae%252Freact-native-fundamentals/ImagePicker/EFC1C057-A9AF-45D8-9A03-59CF9BB7CA54.png"
+    },
+    {
+      "name": "John Moore",
+      "email": "JohnnyBoi4life@gmail.com",
+      "occupation": "Doctor",
+      "id": 3,
+      "uri": "file:///Users/DeVontae/Library/Developer/CoreSimulator/Devices/29238F4F-0C22-4406-9D6A-BF4C9F3DAD00/data/Containers/Data/Application/71BD1567-27FC-4863-AD81-37D7323E2A8F/Library/Caches/ExponentExperienceData/%2540codewithtae%252Freact-native-fundamentals/ImagePicker/EFC1C057-A9AF-45D8-9A03-59CF9BB7CA54.png"
+    },
+    {
+      "name": "John Moore",
+      "email": "JohnnyBoi4life@gmail.com",
+      "occupation": "Doctor",
+      "id": 4,
+      "uri": "file:///Users/DeVontae/Library/Developer/CoreSimulator/Devices/29238F4F-0C22-4406-9D6A-BF4C9F3DAD00/data/Containers/Data/Application/71BD1567-27FC-4863-AD81-37D7323E2A8F/Library/Caches/ExponentExperienceData/%2540codewithtae%252Freact-native-fundamentals/ImagePicker/EFC1C057-A9AF-45D8-9A03-59CF9BB7CA54.png"
+    },
+    {
+      "name": "",
+      "email": "",
+      "occupation": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "occupation": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "occupation": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "occupation": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "occupation": "",
+      "id": 9
+    },
+    {
+      "name": "John Smith",
+      "email": "Jenny4life@gmail.com",
+      "occupation": "Web designer",
+      "id": 10,
+      "uri": "file:///Users/DeVontae/Library/Developer/CoreSimulator/Devices/29238F4F-0C22-4406-9D6A-BF4C9F3DAD00/data/Containers/Data/Application/71BD1567-27FC-4863-AD81-37D7323E2A8F/Library/Caches/ExponentExperienceData/%2540codewithtae%252Freact-native-fundamentals/ImagePicker/3DDF8C41-88F1-41B1-B900-587B9F130BAE.png"
+    },
+    {
+      "name": "",
+      "email": "",
+      "occupation": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "occupation": "",
+      "id": 12
+    },
+    {
+      "name": "DeVontae Moore",
+      "email": "DeVontaeMoore316@gmail.com",
+      "occupation": "Web developer and mobile developer",
+      "id": 13,
+      "uri": "file:///Users/DeVontae/Library/Developer/CoreSimulator/Devices/29238F4F-0C22-4406-9D6A-BF4C9F3DAD00/data/Containers/Data/Application/71BD1567-27FC-4863-AD81-37D7323E2A8F/Library/Caches/ExponentExperienceData/%2540codewithtae%252Freact-native-fundamentals/ImagePicker/0C6A7ED8-64B5-4D8C-811E-84C14FBF31A9.png"
+    },
+    {
+      "name": "",
+      "email": "",
+      "occupation": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "occupation": "",
+      "id": 15
+    }
+  ]
+}
